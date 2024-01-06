@@ -1,3 +1,6 @@
+# Walmart Sales Data Analysis
+
+## About
 This analysis aims to provide insights into Walmart's sales data, evaluating product performance, sales trends, and customer segments. The process involves handling data, generating new features, and conducting exploratory data analysis to answer various business questions and assist in making informed decisions for improving sales strategies, product lines, and customer relationships.
 
 ## About Data
